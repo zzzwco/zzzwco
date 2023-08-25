@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zzzwco
 - 👀 I’m interested in movies, travel and sports.
 - 🌱 I’m currently learning SwiftUI and English.
-- 💞️ I’m looking for remote work.
+- 💞️ I’m looking for remote work and inspiration.
 - 📫 How to reach me [zzzwco@outlook.com](zzzwco@outlook.com)
 
 <!---
